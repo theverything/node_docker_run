@@ -1,0 +1,19 @@
+{
+  "name": "node_docker_run",
+  "version": "0.0.1",
+  "description": "Use JSON to run docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "docker"
+  ],
+  "author": "theverything (Jeffrey Horn)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
